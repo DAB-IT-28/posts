@@ -1,4 +1,5 @@
-# vue_from_a_to_z
+# vue
+
 
 ## Project setup
 ```
